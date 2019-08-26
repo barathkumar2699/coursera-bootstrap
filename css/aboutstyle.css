@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color: #cba1d2;
+    color: whitesmoke;
+}
+.footer{
+    background-color: #f5b5fc;
+}
+.main{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.body{
+    padding: 20px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #512DA8;
+}
